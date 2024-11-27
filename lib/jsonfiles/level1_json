@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Which gas is commonly known as laughing gas?",
+    "options": ["Carbon dioxide", "Nitrogen dioxide","Nitrous oxide","Methane"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 2,
+    "question": "What was the main cause of World War I?",
+    "options": ["The assassination of Archduke Franz Ferdinand","The Treaty of Versailles","The rise of fascism","The Great Depression"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 3,
+    "question": "What is the value of Pi (π) up to two decimal places?",
+    "options": ["3.12","3.14","3.16","3.18"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "What is the smallest bone in the human body?",
+    "options": ["Stapes","Humerus","Femur","Scapula"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 5,
+    "question": "Which river flows through Telangana?",
+    "options": [
+      "Ganges",
+      "Yamuna",
+      "Godavari",
+      "Krishna"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 6,
+    "question": "Which wildlife sanctuary is located in Telangana?",
+    "options": [
+      "Bandipur National Park",
+      "Manjira Wildlife Sanctuary",
+      "Kaziranga National Park",
+      "Periyar Wildlife Sanctuary"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 7,
+    "question": "Which animal is known as the 'Ship of the Desert",
+    "options": [
+      "Sheep",
+      "Camel",
+      "Snake",
+      "Goat"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 8,
+    "question": "Which spice is derived from the stigma of a flower and is one of the most expensive spices by weight?",
+    "options": [
+      "Cinnamon",
+      "Saffron",
+      "Paprika",
+      "Turmeric"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Which fruit is known as the king of fruits and is notorious for its strong odor?",
+    "options": [
+      "Mango",
+      "Papaya",
+      "Durian",
+      "Pineapple"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 10,
+    "question": "How many bones do we have in an ear?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 3
+  }
+]
